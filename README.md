@@ -1,5 +1,5 @@
-Airport Ticketing System – SQL Implementation
-Overview
+# Airport Ticketing System – SQL Implementation
+# Overview
 This project implements a relational database schema and management procedures for an Airport Ticketing System using Microsoft SQL Server. The system is designed to handle employee management, flight bookings, ticket issuance, passenger details, baggage tracking, and additional services, along with authentication, logging, and reporting functionalities.
 
 Features
